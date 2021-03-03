@@ -71,7 +71,7 @@ VALUES(2, 1),
       (8, 5);
 
 
-INSERT INTO SingerGenre(singerId, singerId)
+INSERT INTO SingerGenre(singerId, genreId)
 VALUES(1, 3),
       (2, 2),
       (2, 3),
@@ -100,3 +100,5 @@ VALUES(1, 3),
       (13, 9),
       (14, 4),
       (15, 8);
+
+
